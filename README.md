@@ -42,6 +42,13 @@
 <br />
 <br />
 
+
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulsolomon)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+
+
+
 [website]: https://solomonG.com
 [youtube]: https://www.youtube.com/channel/UCnTS13E_sDQszCGCTVCy7OA
 [linkedin]: https://linkedin.com/in/solomon-gugsa-72894a184
