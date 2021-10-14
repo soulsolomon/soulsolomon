@@ -6,7 +6,7 @@
 ## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
 
 - 🌱 I’m currently enrolled in a Full-Stack developer bootcamp @integrify-Finland 
-- 🥅 2021 Goals: Contribute more to Open Source projects and get hired!
+- 🥅 2021 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
 ### Connect with me:
@@ -54,3 +54,10 @@
 [youtube]: https://www.youtube.com/channel/UCnTS13E_sDQszCGCTVCy7OA
 [linkedin]: https://linkedin.com/in/solomon-gugsa-72894a184
 [twitter]: https://twitter.com/bini_yosef
+<<<<<<< HEAD
+=======
+[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
+[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+>>>>>>> 40ba8db7914dd7119cc25b6ce06489e6b10cb4d6
