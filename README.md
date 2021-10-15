@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="r | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
@@ -43,7 +43,7 @@
 <br />
 
 ### Publication:
-http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-17366
+http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-17366 [<img align="left" alt=" " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][git]
 
 
   
@@ -56,3 +56,4 @@ http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-17366
 [youtube]: https://www.youtube.com/channel/UCnTS13E_sDQszCGCTVCy7OA
 [linkedin]: https://linkedin.com/in/solomon-gugsa-72894a184
 [twitter]: https://twitter.com/bini_yosef
+[git]: https://github.com/soulsolomon/Plug-and-Produce-FreeCADMacro
