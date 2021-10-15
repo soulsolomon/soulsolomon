@@ -43,7 +43,7 @@
 <br />
 
 ### Publication:
-[http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-17366]
+http://urn.kb.se/resolve?urn=urn:nbn:se:hv:diva-17366
 
 
   
