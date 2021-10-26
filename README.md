@@ -43,7 +43,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
 <br />
-<br />
+
 
 ### Publication:
  [<img align="left" alt=" " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][git]
