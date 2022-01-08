@@ -1,4 +1,4 @@
-### Hi there, I'm Solomon  👋
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%%23309C0A&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Solomon!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/website?label=SolomonG.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://solomonG.com)
