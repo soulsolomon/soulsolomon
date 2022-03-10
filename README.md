@@ -6,8 +6,8 @@
 
 ## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
 
-- 🌱 I’m currently enrolled in a Full-Stack developer bootcamp @ integrify-Finland 
-- 🥅 2021 Goals: Contribute more to Open Source projects!
+- 🌱 I’m currently work as Embedded Application Engineer 
+- 🥅 2022 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
 ### Connect with me:
