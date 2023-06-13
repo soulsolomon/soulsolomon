@@ -6,8 +6,8 @@
 
 ## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
 
-- 🌱 I’m currently work as Embedded Application Engineer at Volvo Trucks Technology 
-- 🥅 2022 Goals: Contribute more to Open Source projects!
+- 🌱 I’m currently work as System Design Engineer at Volvo Trucks Technology 
+- 🥅 2023 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
 ### Connect with me:
