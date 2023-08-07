@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
 
-- 🌱 I’m currently work as System Design Engineer at Volvo Trucks Technology 
+- 🌱 Experienced System / Software Design Engineer
 - 🥅 2023 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
@@ -15,7 +15,6 @@
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="r | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
