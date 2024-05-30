@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?label=SolomonG.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://solomonG.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SolomonG?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/bini_yosef)
 
-## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
+## I'm a Husband, Father, and System Designer!!
 
 - 🌱 Experienced System / Software Design Engineer
 - 🥅 2024 Goals: Contribute more to Open Source projects!
