@@ -7,7 +7,7 @@
 ## I'm a Husband, Father, and Full Stack Robotics Software Developer!!
 
 - 🌱 Experienced System / Software Design Engineer
-- 🥅 2023 Goals: Contribute more to Open Source projects!
+- 🥅 2024 Goals: Contribute more to Open Source projects!
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
 ### Connect with me:
