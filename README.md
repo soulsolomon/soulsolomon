@@ -7,7 +7,7 @@
 ## I'm a Husband, Father, and System Designer!!
 
 - 🌱 Experienced System / Software Design Engineer (Automotive)
-- 🥅 2026 Goals: Contribute more to Open Source projects
+- 🥅 2026/27 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a hobby artist who loves to draw..
 
 ### Connect with me:
