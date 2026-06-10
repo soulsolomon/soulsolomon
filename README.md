@@ -8,7 +8,7 @@
 
 - 🌱 Experienced System / Software Design Engineer (Automotive)
 - 🥅 2026/27 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I am a hobby artist who loves to draw..
+- ⚡ Fun fact: I am a hobby artist who loves to draw
 
 ### Connect with me:
 
